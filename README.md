@@ -1,6 +1,6 @@
 # End-to-End-Machine-Learning-Project-with-MLflow
 
-##Workflow
+## Workflow
 - update the config.yaml
 - update schema.yaml
 - update params.yaml
